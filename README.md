@@ -1,5 +1,3 @@
-# Diabetes_Prediction_System_Ankitha
-A machine learning project to predict diabetes using Support Vector Machine (SVM), with real-time input prediction and model evaluation.
 # Diabetes Prediction using SVM
 
 A machine learning model that predicts whether a person is diabetic based on medical data, using Support Vector Machine (SVM) with a linear kernel.
